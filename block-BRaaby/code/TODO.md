@@ -10,3 +10,5 @@ Use the data of a random person coming from an external API given below and disp
 - Handle the loading case. When you are loading the data display a spinner
 
 ![DEMO](../assets/random-person.gif)
+
+
